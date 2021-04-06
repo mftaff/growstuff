@@ -10,14 +10,15 @@
 // WARNING: THE FIRST BLANK LINE MARKS THE END OF WHAT'S TO BE PROCESSED, ANY BLANK LINE SHOULD
 // GO AFTER THE REQUIRES BELOW.
 //
-// = require Chart.bundle
-// = require chartkick
 // = require leaflet
 // = require leaflet.markercluster
 // = require js-routes
+// = require popper
 // = require jquery
 // = require jquery_ujs
-// = require jquery-ui/autocomplete
+// = require jquery-ui/widgets/autocomplete
 // = require bootstrap-sprockets
 // = require bootstrap-datepicker
+// = require bootstrap
+// = require material
 // = require_tree .
